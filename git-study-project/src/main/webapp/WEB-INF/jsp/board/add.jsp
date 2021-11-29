@@ -7,15 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-member1
-
-<span>member2</span>
-
-<ul>
-
-<li>member3의 작업.</li>
-
-</ul>
+member3의 작업물, jsp/board/add
 
 </body>
 </html>

@@ -13,5 +13,8 @@
 <li><span>member2</span></li>
 </ul>
 
+member3의 작업물, jsp/board/index
+
+
 </body>
 </html>
