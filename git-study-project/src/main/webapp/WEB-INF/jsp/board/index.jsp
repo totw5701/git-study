@@ -10,7 +10,7 @@
 
 
 <ul>
-<li><span>게시판 페이지입니당./.</span></li>
+<li><span>member2</span></li>
 </ul>
 
 </body>

@@ -10,8 +10,6 @@
 
 <span>member2</span>
 
-<ul>
-<li><span>게시판 하시기.</span></li>
-</ul>
+
 </body>
 </html>
