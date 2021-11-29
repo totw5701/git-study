@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<span>회원가입 폼.</span>
+	<span>member1</span>
 
 </body>
 </html>

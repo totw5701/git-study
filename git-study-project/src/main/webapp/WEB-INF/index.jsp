@@ -7,19 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<<<<<<< HEAD
-<span>member2</span>
-
-<ul>
-<li><span>게시판 하시기.</span></li>
-=======
-
-<ul>
-
-<li>member3의 작업.</li>
-
->>>>>>> refs/remotes/origin/member3
-</ul>
+member1
 </body>
 </html>
