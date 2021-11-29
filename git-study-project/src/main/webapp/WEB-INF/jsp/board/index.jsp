@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-member1
 
-<span>member2</span>
+
+<ul>
+<li><span>member2</span></li>
+</ul>
 
 </body>
 </html>
